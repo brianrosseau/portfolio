@@ -19,7 +19,9 @@ PYTHON CRASH COURSE, 3RD EDITION, BY ERIC MATTHES
 - Projects included: used programming skills to build Alien Invasion computer game, used data collection and data visualization skills to find, graph, and analyze data.
 
 ### Projects
-Project 1
+#### [Tableau: Cyclistic Case Study Capstone Project](https://public.tableau.com/app/profile/brian.rosseau/viz/CyclisticCaseStudy-ChicagoMap/ChicagoBikeStationsDashboard) (Google Data Analytics Professional Certificate)
+This is the visualization portion of my Capstone project for the Google Data Analytics Professional Certificate. I created multiple visualizations, with the final sheet being an interactive dashboard.
+
 
 Project 2
 
