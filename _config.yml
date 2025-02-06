@@ -1,5 +1,5 @@
 title: Brian Rosseau
 logo: images/headshot.JPG
-#description: text below image
-#show_downloads: true
+description: text below image
+show_downloads: true
 theme: jekyll-theme-minimal
