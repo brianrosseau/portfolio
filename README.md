@@ -25,6 +25,8 @@ This is the visualization portion of my Capstone project for the Google Data Ana
 #### [Tableau: Cyclistic Case Study Capstone Project](https://public.tableau.com/app/profile/brian.rosseau/viz/CyclisticCaseStudy-ChicagoMap/ChicagoBikeStationsDashboard) (Google Data Analytics Professional Certificate)
 This is the visualization portion of my Capstone project for the Google Data Analytics Professional Certificate. I created multiple visualizations, with the final sheet being an interactive dashboard.
 
+#### [Excel: Bike Sales Dashboard](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fbrianrosseau%2FExcel-Projects%2Frefs%2Fheads%2Fmain%2FBike%2520Sales%2520Dashboard.xlsx&wdOrigin=BROWSELINK) 
+Created interactive dashboard and pivot tables to show bike sale trends by Region, Marital Status, and Gender.
 
 Project 2
 
