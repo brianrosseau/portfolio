@@ -3,7 +3,7 @@
 ##### Technical Skills: Python, SQL, Tableau, R, Excel
 
 ### Certifications
-GOOGLE DATA ANLALYTICS PROFESSIONAL CERTIFICATE ![Google_logo](/images/Google logo.png)
+GOOGLE DATA ANLALYTICS PROFESSIONAL CERTIFICATE 
 - Completed 6–7 month certification that includes Capstone Project using R programming language.
 - Learned Step-by-Step Process for Data Analysis.
 - Skills Learned: Microsoft Excel, SQL, Tableau, R
