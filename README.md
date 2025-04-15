@@ -19,13 +19,20 @@ PYTHON CRASH COURSE, 3RD EDITION, BY ERIC MATTHES
 - Projects included: used programming skills to build Alien Invasion computer game, used data collection and data visualization skills to find, graph, and analyze data.
 
 ### Projects
-#### [R programming language: Cyclistic Case Study](https://brianrosseau.github.io/R-cyclistic-case-study/) (Google Data Analytics Professional Certificate)
+#### Kathy's Cleaning Data Analysis Project
+I am currently working on a project for my employer, Kathy's Cleaning, in which I am going through the steps of data analysis to answer key business questions. The project incorporates my skills in SQL, Python, and Excel.
+
+#### [Data Vizualization with R programming language](https://brianrosseau.github.io/R-cyclistic-case-study/) (Google Data Analytics Professional Certificate)
 This is the visualization portion of my Capstone project for the Google Data Analytics Professional Certificate. It includes the R code which can be opened or hidden, along with the visualizations and conclusions.
 
-#### [Tableau: Cyclistic Case Study Capstone Project](https://public.tableau.com/app/profile/brian.rosseau/viz/CyclisticCaseStudy-ChicagoMap/ChicagoBikeStationsDashboard) (Google Data Analytics Professional Certificate)
+#### [Data Visualization with Tableau](https://public.tableau.com/app/profile/brian.rosseau/viz/CyclisticCaseStudy-ChicagoMap/ChicagoBikeStationsDashboard) (Google Data Analytics Professional Certificate)
 This is the visualization portion of my Capstone project for the Google Data Analytics Professional Certificate. I created multiple visualizations, with the final sheet being an interactive dashboard.
 
-#### [Excel: Bike Sales Dashboard](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fbrianrosseau%2FExcel-Projects%2Frefs%2Fheads%2Fmain%2FBike%2520Sales%2520Dashboard.xlsx&wdOrigin=BROWSELINK) 
+#### [Python Crash Course] (https://github.com/brianrosseau/python_crash_course) (How I learned Python)
+This github page shows all the exercises, as well as two projects, I did in learning Python from the book Python Crash Course, by Eric Matthes.
+The projects include programming a game called Alien Invasion, and a number of Data Visualization projects
+
+#### [Dashboard with Excel](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fbrianrosseau%2FExcel-Projects%2Frefs%2Fheads%2Fmain%2FBike%2520Sales%2520Dashboard.xlsx&wdOrigin=BROWSELINK) 
 Created interactive dashboard and pivot tables to show bike sale trends by Region, Marital Status, and Gender.
 
 Project 2
