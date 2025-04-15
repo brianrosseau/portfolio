@@ -28,7 +28,7 @@ This is the visualization portion of my Capstone project for the Google Data Ana
 #### [Data Visualization with Tableau](https://public.tableau.com/app/profile/brian.rosseau/viz/CyclisticCaseStudy-ChicagoMap/ChicagoBikeStationsDashboard) (Google Data Analytics Professional Certificate)
 This is the visualization portion of my Capstone project for the Google Data Analytics Professional Certificate. I created multiple visualizations, with the final sheet being an interactive dashboard.
 
-#### [Python Crash Course] (https://github.com/brianrosseau/python_crash_course) (How I learned Python)
+#### [Python Crash Course](https://github.com/brianrosseau/python_crash_course) (How I learned Python)
 This github page shows all the exercises, as well as two projects, I did in learning Python from the book Python Crash Course, by Eric Matthes.
 The projects include programming a game called Alien Invasion, and a number of Data Visualization projects
 
