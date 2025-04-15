@@ -35,8 +35,6 @@ The projects include programming a game called Alien Invasion, and a number of D
 #### [Dashboard with Excel](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fbrianrosseau%2FExcel-Projects%2Frefs%2Fheads%2Fmain%2FBike%2520Sales%2520Dashboard.xlsx&wdOrigin=BROWSELINK) 
 Created interactive dashboard and pivot tables to show bike sale trends by Region, Marital Status, and Gender.
 
-Project 2
-
 ### Work Experience
 ASSISTANT MANAGER | KATHY’S CLEANING | OCTOBER 2021 – PRESENT | LIZELLA, GA
 - Lead or assist in leading team.
