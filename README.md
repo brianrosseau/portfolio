@@ -40,8 +40,8 @@ B.A. BIBLE | CEDARVILLE UNIVERSITY | 2000 | CEDARVILLE, OH
 I am currently working on a project for my employer, Kathy's Cleaning, in which I am going through the steps of data analysis to answer key business questions. The project incorporates my skills in SQL, Python, and Excel.
 
 #### Cyclistic Case Study - Capstone Project for Google Data Analytics Professional Certificate
-- #### [Data Vizualization with R programming language](https://brianrosseau.github.io/R-cyclistic-case-study/) 
-- #### [Data Visualization with Tableau](https://public.tableau.com/app/profile/brian.rosseau/viz/CyclisticCaseStudy-ChicagoMap/ChicagoBikeStationsDashboard) 
+  #### [Data Vizualization with R programming language](https://brianrosseau.github.io/R-cyclistic-case-study/)   
+  #### [Data Visualization with Tableau](https://public.tableau.com/app/profile/brian.rosseau/viz/CyclisticCaseStudy-ChicagoMap/ChicagoBikeStationsDashboard) 
 - Analyzed one year of historical trip data (12 CSV files) for a fictional bike-share company to identify behavioral differences between annual members and casual riders.
 - Cleaned and prepared large datasets in bike usage using R, applying data wrangling and transformation techniques to ensure data quality and consistency.
 - Conducted exploratory data analysis and trend identification, revealing that casual riders primarily use bikes for recreation while annual members use them for commuting.
